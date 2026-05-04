@@ -1,0 +1,32 @@
+body {
+    margin: 0;
+    font-family: Arial;
+    background-color: #201f1f;
+    text-align: center;
+}
+
+.header {
+    background-color: #4b0303;
+    color: white;
+    padding: 20px;
+}
+
+.header a {
+    color: white;
+    margin: 10px;
+    text-decoration: none;
+}
+
+.content {
+    background-color: rgb(206, 200, 200);
+    padding: 20px;
+    margin: 20px auto;
+    width: 70%;
+    border-radius: 10px;
+}
+
+.footer {
+    background-color: #560d03;
+    color: white;
+    padding: 10px;
+}
