@@ -1,24 +1,25 @@
 body {
     margin: 0;
     font-family: Arial;
-    background-color: #201f1f;
+    background-color: #181818;
     text-align: center;
 }
 
 .header {
-    background-color: #4b0303;
-    color: white;
+    background-color: #300404;
+    color: rgb(245, 239, 237);
     padding: 20px;
 }
 
 .header a {
-    color: white;
+    color: rgb(242, 239, 236);
     margin: 10px;
     text-decoration: none;
+    font-weight: bold;
 }
 
 .content {
-    background-color: rgb(206, 200, 200);
+    background-color: rgb(222, 219, 216);
     padding: 20px;
     margin: 20px auto;
     width: 70%;
@@ -26,7 +27,20 @@ body {
 }
 
 .footer {
-    background-color: #560d03;
-    color: white;
+    background-color: #430909;
+    color: rgb(255, 255, 255);
     padding: 10px;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    margin: 10px;
+}
+
+a {
+    color: #ab0000;
 }
